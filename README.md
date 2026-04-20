@@ -14,3 +14,4 @@ I'm building my foundations in data analysis — learning how to ask the right q
 * Small projects and analyses on real-world datasets
 * Notebooks that walk through my thinking step by step
 * Experiments as I pick up new tools and techniques
+![](images/Figure_1.png)
