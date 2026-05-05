@@ -10,7 +10,6 @@ I'm building my foundations in data analysis — learning how to ask the right q
 * Python with pandas and numpy
 * Data visualization with matplotlib and seaborn
 * SQL for querying and aggregating data
-* What you'll find in this portfolio
 * Small projects and analyses on real-world datasets
 * Notebooks that walk through my thinking step by step
 * Experiments as I pick up new tools and techniques
